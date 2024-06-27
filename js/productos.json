@@ -1,0 +1,361 @@
+[
+    {
+        "id": "Elden Ring ",
+        "titulo": "Elden Ring",
+        "imagen": "./img/juegos/01.jpg",
+        "descripcion": "(PC,PS4,PS5,XBOX ONE,XBOX X/S)",
+        "categoria": {
+            "nombre": "Juegos",
+            "id": "Juegos"
+        },
+        "precio": 234500
+    },
+    {
+        "id": "Grand Theft Auto V",
+        "titulo": "Grand Theft Auto V",
+        "imagen": "./img/juegos/02.avif",
+        "descripcion": "(PC,PS4,XBOX ONE)",
+        "categoria": {
+            "nombre": "Juegos",
+            "id": "Juegos"
+        },
+        "precio": 71411
+    },
+    {
+        "id": "Dragon Ball Z Kakarot",
+        "titulo": "Dragon Ball Z Kakarot",
+        "imagen": "./img/juegos/03.webp",
+        "descripcion": "(PC,PS4,PS5,XBOX ONE,XBOX SERIES,NINTENDO SWITCH)",
+        "categoria": {
+            "nombre": "Juegos",
+            "id": "Juegos"
+        },
+        "precio": 132020
+    },
+    {
+        "id": "Assasin's Creed III",
+        "titulo": "Assasin's Creed III",
+        "imagen": "./img/Juegos/04.jpg",
+        "descripcion": "(PC,PS3,XBOX 360,Wii U)",
+        "categoria": {
+            "nombre": "Juegos",
+            "id": "Juegos"
+        },
+        "precio": 48590
+    },
+    {
+        "id": "Zelda Breath of the Wild",
+        "titulo": "Zelda Breath of the Wild",
+        "imagen": "./img/Juegos/05.webp",
+        "descripcion": "(NINTENDO SWITCH,Wii U)",
+        "categoria": {
+            "nombre": "Juegos",
+            "id": "Juegos"
+        },
+        "precio": 173682
+    },
+
+    {
+        "id": "Battlefield 1",
+        "titulo": "Battlefield 1",
+        "imagen": "./img/Juegos/06.jpg",
+        "descripcion": "(PC,PS4,XBOX ONE)",
+        "categoria": {
+            "nombre": "Juegos",
+            "id": "Juegos"
+        },
+        "precio": 178209
+    },
+
+    {
+        "id": "Metal Gear Solid 3",
+        "titulo": "Metal Gear Solid 3",
+        "imagen": "./img/Juegos/07.jpg",
+        "descripcion": "(PS2)",
+        "categoria": {
+            "nombre": "Juegos",
+            "id": "Juegos"
+        },
+        "precio": 86600
+    },
+
+    {
+        "id": "Resident Evil Village",
+        "titulo": "Resident Evil Village",
+        "imagen": "./img/Juegos/08.jpg",
+        "descripcion": "(PC,PS4,PS5,XBOX ONE,XBOX X/S)",
+        "categoria": {
+            "nombre": "Juegos",
+            "id": "Juegos"
+        },
+        "precio": 82000
+    },
+
+    {
+        "id": "Crash Team Racing",
+        "titulo": "Crash Team Racing",
+        "imagen": "./img/Juegos/09.jpg",
+        "descripcion": "(PS1)",
+        "categoria": {
+            "nombre": "Juegos",
+            "id": "Juegos"
+        },
+        "precio": 5000
+    },  
+    
+    {
+        "id": "Days Gone",
+        "titulo": "Days Gone",
+        "imagen": "./img/Juegos/10.jpg",
+        "descripcion": "(PC,PS4,PS5)",
+        "categoria": {
+            "nombre": "Juegos",
+            "id": "Juegos"
+        },
+        "precio": 222773
+    },
+
+    {
+        "id": "yugioh",
+        "titulo": "Yugioh Forbidden Memories",
+        "imagen": "./img/Juegos/11.jpg",
+        "descripcion": "(PS1)",
+        "categoria": {
+            "nombre": "Juegos",
+            "id": "Juegos"
+        },
+        "precio": 5000
+    }, 
+
+    {
+        "id": "Pokemon Escarlata",
+        "titulo": "Pokemon Escarlata",
+        "imagen": "./img/Juegos/12.jpg",
+        "descripcion": "(Nintendo Switch)",
+        "categoria": {
+            "nombre": "Juegos",
+            "id": "Juegos"
+        },
+        "precio": 155243
+    }, 
+
+    {
+        "id": "Play Station 1",
+        "titulo": "Play Station 1",
+        "imagen": "./img/Consolas/01.png",
+        "descripcion": "(USADO)",
+        "categoria": {
+            "nombre": "Consolas",
+            "id": "Consolas"
+        },
+        "precio": 270000
+    },
+    {
+        "id": "Play Station 2",
+        "titulo": "Play Station 2",
+        "imagen": "./img/Consolas/02.png",
+        "descripcion": "(USADO)",
+        "categoria": {
+            "nombre": "Consolas",
+            "id": "Consolas"
+        },
+        "precio": 600000
+    },
+    {
+        "id": "Play Station 3",
+        "titulo": "Play Station 3",
+        "imagen": "./img/Consolas/03.png",
+        "descripcion": "(USADO)",
+        "categoria": {
+            "nombre": "Consolas",
+            "id": "Consolas"
+        },
+        "precio": 720000
+    },
+    {
+        "id": "Play Station 4",
+        "titulo": "Play Station 4",
+        "imagen": "./img/Consolas/04.png",
+        "descripcion": "(NUEVO)",
+        "categoria": {
+            "nombre": "Consolas",
+            "id": "Consolas"
+        },
+        "precio": 1466574
+    },
+    {
+        "id": "Play Station 5",
+        "titulo": "Play Station 5",
+        "imagen": "./img/Consolas/05.png",
+        "descripcion": "(NUEVO)",
+        "categoria": {
+            "nombre": "Consolas",
+            "id": "Consolas"
+        },
+        "precio": 2529900
+    },
+    {
+        "id": "Xbox 360 500Gb",
+        "titulo": "Xbox 360 500Gb",
+        "imagen": "./img/Consolas/06.png",
+        "descripcion": "(NUEVO)",
+        "categoria": {
+            "nombre": "Consolas",
+            "id": "Consolas"
+        },
+        "precio": 600000
+    },
+    {
+        "id": "xbox series s",
+        "titulo": "Xbox Series S 1TB",
+        "imagen": "./img/Consolas/07.png",
+        "descripcion": "(NUEVO)",
+        "categoria": {
+            "nombre": "Consolas",
+            "id": "Consolas"
+        },
+        "precio": 1674533
+    },
+    {
+        "id": "Xbox One",
+        "titulo": "Xbox One S",
+        "imagen": "./img/Consolas/08.png",
+        "descripcion": "(NUEVO)",
+        "categoria": {
+            "nombre": "Consolas",
+            "id": "Consolas"
+        },
+        "precio": 1409900
+    },
+
+    {
+        "id": "Pc Gamer",
+        "titulo": "Pc Gamer",
+        "imagen": "./img/Consolas/09.png",
+        "categoria": {
+            "nombre": "Consolas",
+            "id": "Consolas"
+        },
+        "precio": 3500000
+    },
+
+    {
+        "id": "Portatil Gamer",
+        "titulo": "Portatil Gamer Omen",
+        "imagen": "./img/Consolas/10.png",
+        "categoria": {
+            "nombre": "Consolas",
+            "id": "Consolas"
+        },
+        "precio": 4500000
+    },
+
+    {
+        "id": "Game Boy Advance",
+        "titulo": "Game Boy Advance",
+        "imagen": "./img/Consolas/11.png",
+        "descripcion": "(USADO)",
+        "categoria": {
+            "nombre": "Consolas",
+            "id": "Consolas"
+        },
+        "precio": 450000
+    },
+
+    {
+        "id": "PSP",
+        "titulo": "PSP",
+        "imagen": "./img/Consolas/12.png",
+        "descripcion": "(USADO)",
+        "categoria": {
+            "nombre": "Consolas",
+            "id": "Consolas"
+        },
+        "precio": 350000
+    },
+
+    {
+        "id": "Auriculares",
+        "titulo": "Auriculares Gamer",
+        "imagen": "./img/Accesorios/01.png",
+        "descripcion": "(Rgb Diadema Pc Microfono Xtrike Me Hp-318 Color Negro)",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "Accesorios"
+        },
+        "precio": 95000
+    },
+
+    {
+        "id": "Mouse",
+        "titulo": "Mouse Gamer Logitech G203",
+        "imagen": "./img/Accesorios/02.png",
+        "descripcion": "(Rgb Lightsync 8000 Dpi Color Negro)",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "Accesorios"
+        },
+        "precio": 110479
+    },
+
+    {
+        "id": "Teclado",
+        "titulo": "Teclado Gamer Logitech pro 930",
+        "imagen": "./img/Accesorios/03.png",
+        "descripcion": "(Pro QWERTY inglés US color negro con luz RGB)",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "Accesorios"
+        },
+        "precio": 392195
+    },
+
+    {
+        "id": "Monitor",
+        "titulo": "Monitor Asus Rog strix ",
+        "imagen": "./img/Accesorios/04.png",
+        "descripcion": "(Rgb Lightsync 8000 Dpi Color Negro)",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "Accesorios"
+        },
+        "precio": 650000
+    },
+
+    {
+        "id": "Silla Gamer",
+        "titulo": "Silla Gamer Cougar Xplorer",
+        "imagen": "./img/Accesorios/05.png",
+        "descripcion": "(Rgb Lightsync 8000 Dpi Color Negro)",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "Accesorios"
+        },
+        "precio": 350000
+    },
+
+    {
+        "id": "Teclado",
+        "titulo": "Teclado Genius Scorpion K8",
+        "imagen": "./img/Accesorios/06.png",
+        "descripcion": "(Rgb Lightsync 8000 Dpi Color Negro)",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "Accesorios"
+        },
+        "precio": 120000
+    },
+
+    {
+        "id": "Tarjeta Steam",
+        "titulo": "Tarjeta Steam $1",
+        "imagen": "./img/Accesorios/07.png",
+        "descripcion": "(Steam $1)",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "Accesorios"
+        },
+        "precio": 4000
+    }
+    
+]
